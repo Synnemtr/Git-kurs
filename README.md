@@ -1,1 +1,4 @@
-Dette er et prosjekt hvor vi sier fram hvordan git fungerer
+i#Git-kurs
+##Overskrift
+
+I dette *prosjektet* lærer vi git
